@@ -23,5 +23,5 @@ def check_data_quality(filepath):
         return False
 
 if __name__ == "__main__":
-    data_file = 'data/sample_data.csv' 
+    data_file = 'data/Financial Sample.csv' 
     check_data_quality(data_file)
