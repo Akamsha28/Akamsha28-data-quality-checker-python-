@@ -1,1 +1,1 @@
-# Akamsha28-data-quality-checker-python-
+# Akamsha28-data-quality-checker-python
