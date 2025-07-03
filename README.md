@@ -12,7 +12,7 @@ In real-world data engineering scenarios, data often arrives with inconsistencie
 * **Provide Data Insights:** Offers a quick overview of the dataset's structure, data types, and basic statistics.
 * **Support Upstream Processes:** Clean and validated data is vital for reliable analytics, machine learning model training, and reporting.
 
-[cite_start]This aligns with my experience in automating daily reconciliation and quality checks [cite: 35] [cite_start]and developing validation and anomaly detection logic[cite: 58].
+This aligns with my experience in automating daily reconciliation and quality checks [cite: 35] [cite_start]and developing validation and anomaly detection logic.
 
 ## Features
 
